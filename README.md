@@ -157,9 +157,29 @@ Project Link: https://omerbayram-ai.github.io/FractallsLab/
 <em>Built with passion for making mathematics beautiful and accessible.</em>
 </p>
 ```
+---
 
+## 💬 Feedback & Support
 
+Your feedback helps improve Fractals Lab! Here's how you can contribute:
 
+### 🐛 Report a Bug
+Found something broken? [Open an Issue](https://github.com/omerbayram-ai/FractallsLab/issues) and let me know!
+
+### 💡 Suggest a Feature
+Have an idea for a new fractal type or visualization? [Create a Feature Request](https://github.com/omerbayram-ai/FractallsLab/issues/new) 
+
+### 💬 Join Discussions
+Want to share your fractal creations or ask questions? Join our [GitHub Discussions](https://github.com/omerbayram-ai/FractallsLab/discussions)
+
+### 📧 Direct Contact
+For collaborations or direct inquiries:
+- GitHub: [@omerbayram-ai](https://github.com/omerbayram-ai)
+- Email: [your-email@example.com](mailto:your-email@example.com) *(bunu kendi e-postanla değiştir)*
+
+---
+
+**All feedback is welcome!** Whether it's a typo, a mathematical correction, or a new feature idea — every contribution helps make Fractals Lab better. 🚀
 
 
 
