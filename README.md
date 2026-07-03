@@ -140,8 +140,13 @@ Open a Pull Request
 📊 Impact
 Since launch, Fractals Lab has been visited by learners from 30+ countries, with users spending an average of 4+ minutes interacting with the mathematical tools — a testament to the power of learning by doing.
 (Analytics data available upon request for academic collaborations.)
-📄 License
-This project is licensed under the MIT License — feel free to use, modify, and share. See the LICENSE file for details.
+
+
+## 📄 License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). 
+
+You are free to share and adapt the material for educational and academic purposes, as long as you give appropriate credit. Commercial use is strictly prohibited.
 
 
 📬 Contact
